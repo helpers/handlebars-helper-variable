@@ -1,22 +1,22 @@
 {
   "name": "handlebars-helper-variable",
-  "description": "The most interesting project in the world > Verb",
+  "description": "Handlebars block helper that adds variables to the context that can be used by following expressions in the same template.",
   "version": "0.1.0",
-  "homepage": "https://github.com/doowb/handlebars-helper-variable",
+  "homepage": "https://github.com/helpers/handlebars-helper-variable",
   "author": {
     "name": "Brian Woodward",
     "url": "https://github.com/doowb"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/doowb/handlebars-helper-variable.git"
+    "url": "git://github.com/helpers/handlebars-helper-variable.git"
   },
   "bugs": {
-    "url": "https://github.com/doowb/handlebars-helper-variable/issues"
+    "url": "https://github.com/helpers/handlebars-helper-variable/issues"
   },
   "license": {
     "type": "MIT",
-    "url": "https://github.com/doowb/handlebars-helper-variable/blob/master/LICENSE"
+    "url": "https://github.com/helpers/handlebars-helper-variable/blob/master/LICENSE"
   },
   "files": [
     "index.js"

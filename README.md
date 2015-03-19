@@ -1,6 +1,6 @@
-# handlebars-helper-variable [![NPM version](https://badge.fury.io/js/handlebars-helper-variable.svg)](http://badge.fury.io/js/handlebars-helper-variable)  [![Build Status](https://travis-ci.org/doowb/handlebars-helper-variable.svg)](https://travis-ci.org/doowb/handlebars-helper-variable) 
+# handlebars-helper-variable [![NPM version](https://badge.fury.io/js/handlebars-helper-variable.svg)](http://badge.fury.io/js/handlebars-helper-variable)  [![Build Status](https://travis-ci.org/helpers/handlebars-helper-variable.svg)](https://travis-ci.org/helpers/handlebars-helper-variable) 
 
-> The most interesting project in the world > Verb
+> Handlebars block helper that adds variables to the context that can be used by following expressions in the same template.
 
 ## Install with [npm](npmjs.org)
 
@@ -27,14 +27,14 @@ npm i -d && npm test
 ```
 
 ## Contributing
-Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/doowb/handlebars-helper-variable/issues)
+Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/helpers/handlebars-helper-variable/issues)
 
 ## Author
 
 **Brian Woodward**
  
-+ [github/doowb](https://github.com/doowb)
-+ [twitter/doowb](http://twitter.com/doowb) 
++ [github/helpers](https://github.com/helpers)
++ [twitter/helpers](http://twitter.com/helpers) 
 
 ## License
 Copyright (c) 2015 Brian Woodward  
