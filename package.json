@@ -1,24 +1,26 @@
 {
-  "name": "variable-helper",
+  "name": "handlebars-helper-variable",
   "description": "The most interesting project in the world > Verb",
   "version": "0.1.0",
-  "homepage": "https://github.com/doowb/variable-helper",
+  "homepage": "https://github.com/doowb/handlebars-helper-variable",
   "author": {
     "name": "Brian Woodward",
     "url": "https://github.com/doowb"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/doowb/variable-helper.git"
+    "url": "git://github.com/doowb/handlebars-helper-variable.git"
   },
   "bugs": {
-    "url": "https://github.com/doowb/variable-helper/issues"
+    "url": "https://github.com/doowb/handlebars-helper-variable/issues"
   },
   "license": {
     "type": "MIT",
-    "url": "https://github.com/doowb/variable-helper/blob/master/LICENSE"
+    "url": "https://github.com/doowb/handlebars-helper-variable/blob/master/LICENSE"
   },
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "main": "index.js",
   "engines": {
     "node": ">=0.10.0"
@@ -26,10 +28,8 @@
   "scripts": {
     "test": "mocha"
   },
-  "dependencies": {},
   "devDependencies": {
     "mocha": "*",
     "should": "*"
-  },
-  "keywords": []
+  }
 }

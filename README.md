@@ -1,17 +1,17 @@
-# variable-helper [![NPM version](https://badge.fury.io/js/variable-helper.svg)](http://badge.fury.io/js/variable-helper)
+# handlebars-helper-variable [![NPM version](https://badge.fury.io/js/handlebars-helper-variable.svg)](http://badge.fury.io/js/handlebars-helper-variable)  [![Build Status](https://travis-ci.org/doowb/handlebars-helper-variable.svg)](https://travis-ci.org/doowb/handlebars-helper-variable) 
 
 > The most interesting project in the world > Verb
 
 ## Install with [npm](npmjs.org)
 
 ```bash
-npm i variable-helper --save
+npm i handlebars-helper-variable --save
 ```
 
 ## Usage
 
 ```js
-var variableHelper = require('variable-helper');
+var variableHelper = require('handlebars-helper-variable');
 ```
 
 ## API
@@ -27,7 +27,7 @@ npm i -d && npm test
 ```
 
 ## Contributing
-Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/doowb/variable-helper/issues)
+Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/doowb/handlebars-helper-variable/issues)
 
 ## Author
 

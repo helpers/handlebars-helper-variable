@@ -1,8 +1,8 @@
 /*!
- * variable-helper <https://github.com/doowb/variable-helper>
+ * handlebars-helper-variable <https://github.com/doowb/handlebars-helper-variable>
  *
- * Copyright (c) 2015 Brian Woodward.
- * Licensed under the MIT license.
+ * Copyright (c) 2015, Brian Woodward.
+ * Licensed under the MIT License.
  */
 
 'use strict';
