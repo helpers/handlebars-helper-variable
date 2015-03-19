@@ -40,6 +40,7 @@ module.exports = variable;
  * ```
  *
  * @param  {Object} `context` Context object to put the JSON object on.
+ * @api public
  */
 
 function variable (context) {

@@ -15,6 +15,34 @@ var variableHelper = require('handlebars-helper-variable');
 ```
 
 ## API
+### [variable](./index.js#L46)
+
+Dyanimcally add JSON objects to the context.
+
+* `context` **{Object}**: Context object to put the JSON object on.    
+
+Register the helper with Handlebars
+
+```js
+var variable = require('handlebars-helper-variable');
+var context = {};
+Handlebars.registerHelper('variable', variable(context));
+```
+
+Use the helper in a Handlebars template.
+
+```hbs
+{{#variable "foo"}}
+  { "foo": "bar" }
+{{/variable}}
+```
+
+Compile and render the template with the given context.
+
+```js
+Handlebars.compile(template)(context);
+//=> context = { foo: { foo: 'bar' } }
+```
 
 
 
