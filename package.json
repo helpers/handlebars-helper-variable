@@ -29,7 +29,7 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "mocha": "*",
-    "should": "*"
+    "handlebars": "^3.0.0",
+    "mocha": "*"
   }
 }

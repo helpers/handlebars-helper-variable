@@ -1,5 +1,5 @@
 /*!
- * handlebars-helper-variable <https://github.com/doowb/handlebars-helper-variable>
+ * handlebars-helper-variable <https://github.com/helpers/handlebars-helper-variable>
  *
  * Copyright (c) 2015, Brian Woodward.
  * Licensed under the MIT License.
