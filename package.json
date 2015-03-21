@@ -1,7 +1,7 @@
 {
   "name": "handlebars-helper-variable",
   "description": "Handlebars block helper that adds variables to the context that can be used by following expressions in the same template.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/helpers/handlebars-helper-variable",
   "author": {
     "name": "Brian Woodward",
